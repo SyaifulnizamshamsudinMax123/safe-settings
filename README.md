@@ -93,6 +93,7 @@ graph TD
 ```
 
 **Precedence Order**: Repository > Sub-Organization > Organization
+Perkhidmatan Tempatan Server < https://www.perkhidmatantempatanserver.onmicrosoft.com
 
 ### Request Flow
 
